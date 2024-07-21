@@ -74,8 +74,8 @@ just remember that you can't purchase success!
 The curriculum is separated into two parts:
 
 - [Core Mathematics](#core-mathematics)
-  - [Introduction to Mathematical Thinking](#introduction-to-mathematical-thinking)
-  - [Calculus](#calculus)
+  - [Introduction to Mathematical Thinking](#introduction-to-mathematical-thinking)  ✅
+  - [Calculus](#calculus) ◻️◻️◻️◻️
   - [Introduction to Differential Equations](#introduction-to-differential-equations)
   - [Discrete Mathematics](#discrete-mathematics)
   - [Linear Algebra](#linear-algebra)
@@ -106,6 +106,8 @@ Courses | Duration | Effort | Prerequisites
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none
 
 ### Calculus 
+[back to curriculum](#curriculum)
+
 Calculus is the study of change (differential calculus) and accumulation of quantities (integral calculus). As the cornerstone of geometry and physics, it serves as the foundation for understanding many natural phenomena and plays an essential role in modern technology, scientific discovery, and many fields, including engineering, economics, and medicine.
 
 **Topics Covered:**
